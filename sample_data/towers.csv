@@ -1,0 +1,5 @@
+tower_id,project_id,tower_name,floors,wings,base_rate_per_sqft
+TWR-1A,PRJ-1,Aster,14,A;B,9850.00
+TWR-1B,PRJ-1,Bluebell,16,A;B,10400.00
+TWR-2A,PRJ-2,Champa,10,A;B,6200.00
+TWR-2B,PRJ-2,Daffodil,8,A,6405.35
