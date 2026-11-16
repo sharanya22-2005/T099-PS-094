@@ -34,3 +34,5 @@ python main.py --data-dir sample_data --out-dir output
 # 2. Run the unit test suite
 python -m unittest discover -s tests -v
 ```
+## Demo Video
+- **5-Minute Project Walkthrough (Team T099):** [Watch Demo Video](https://docs.google.com/videos/d/1meWBnpQv4tvZZORDhNnkVUb5SEaW0zTXyTG17uKA5BI/play?usp=sharing)
